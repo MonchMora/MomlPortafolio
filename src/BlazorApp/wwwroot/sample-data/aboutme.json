@@ -1,12 +1,17 @@
 {
-  "description": "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.",
+  "description": "I am a goal-oriented .NET Developer with over 7 years of experience in analyzing, designing, and implementing solutions to meet customer business needs. I have a strong ability to work under pressure, adapt to changes, and collaborate effectively in a team environment.",
   "skills": [
-    "Web design",
-    "User experience",
-    "Inclusive design",
-    "Focus group testing",
-    "Mobile user interfaces",
-    "Graphic design"
+    "ASP.NET",
+    "SQL Server",
+    "C#",
+    "JavaScript",
+    "HTML5",
+    "CSS",
+    "Power BI",
+    "Azure",
+    "ERP Navision",
+    "PHP",
+    "MySQL"
   ],
-  "detailOrQuote": "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all."
+  "detailOrQuote": "I am passionate about solving complex business problems through innovative solutions and efficient data management. My experience in developing dashboards and managing SQL databases has helped improve business processes and customer satisfaction."
 }
